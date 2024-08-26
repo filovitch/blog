@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog de Filovitch</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Blog de Filovitch</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Mon, 26 Aug 2024 20:52:28 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qu&#39;est ce que je fais pour le moment ?</title>
+      <link>http://localhost:1313/now/</link>
+      <pubDate>Mon, 26 Aug 2024 20:52:28 +0200</pubDate>
+      <guid>http://localhost:1313/now/</guid>
+      <description>Page décrivant ce que je fais actuellement</description>
+    </item>
+    <item>
+      <title>Qui suis-je ?</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 26 Aug 2024 20:21:22 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Page décrivant qui je suis, d&amp;rsquo;où je viens, ce que j&amp;rsquo;aime et ce que j&amp;rsquo;ai déjà réalisé</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 25 Aug 2024 14:08:32 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&#xD;Hello&#xD;Link to heading&#xD;</description>
+    </item>
+  </channel>
+</rss>
